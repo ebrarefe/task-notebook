@@ -26,8 +26,9 @@
       "permissions": [
         "NOTIFICATIONS",
         "SCHEDULE_EXACT_ALARM",
-        "READ_CALENDAR",
-        "android.permission.READ_CALENDAR",
+        "READ_CALENDAR"
+      ],
+      "blockedPermissions": [
         "android.permission.WRITE_CALENDAR"
       ]
     },
