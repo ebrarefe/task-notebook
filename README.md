@@ -1,5 +1,10 @@
 # Task Notebook (Görev Defteri)
 
+<p align="center">
+  <img src="docs/screenshot-today.png" width="280" alt="Today tab — daily calendar events, today's tasks, weekly tasks, and reminder settings" />
+  <img src="docs/screenshot-weekly.png" width="280" alt="Weekly tab — recurring weekly tasks" />
+</p>
+
 A personal daily & weekly task and memorization tracker built with React Native and Expo. Every morning, a local notification reminds you of the day's tasks and a "memory of the day" — all data stays on your device.
 
 ## Features
