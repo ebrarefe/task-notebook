@@ -47,7 +47,17 @@
         {
           "calendarPermission": "Günün etkinliklerini görevlerinle göstermek için takvime erişim."
         }
-      ]
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#F1ECE0"
+        }
+      ],
+      "expo-sharing"
     ],
     "owner": "efe1111",
     "extra": {
